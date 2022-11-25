@@ -29,12 +29,12 @@
 
 .button {
     background-color: rgba(29, 31, 53, 0.5);
-    color: white;
+    color: rgb(142, 136, 136);
   }
   
 .button:hover {
     background-color: rgba(43, 141, 253, 0.836);
-    color: white;
+    color: rgb(142, 136, 136);
   }
 
 .button1 {
